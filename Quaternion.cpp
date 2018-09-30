@@ -18,3 +18,6 @@ Quaternion Quaternion::inverse() const
           return conjugated() / (mod() * mod());
   }
 
+main()
+{
+}
